@@ -1,0 +1,15 @@
+c:\Users\drod7\Projects\mxc-lang\bin\Debug\net8.0\mxc-lang.exe
+c:\Users\drod7\Projects\mxc-lang\bin\Debug\net8.0\mxc-lang.deps.json
+c:\Users\drod7\Projects\mxc-lang\bin\Debug\net8.0\mxc-lang.runtimeconfig.json
+c:\Users\drod7\Projects\mxc-lang\bin\Debug\net8.0\mxc-lang.dll
+c:\Users\drod7\Projects\mxc-lang\bin\Debug\net8.0\mxc-lang.pdb
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.AssemblyInfoInputs.cache
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.AssemblyInfo.cs
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.csproj.CoreCompileInputs.cache
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.sourcelink.json
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.dll
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\refint\mxc-lang.dll
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.pdb
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\mxc-lang.genruntimeconfig.cache
+c:\Users\drod7\Projects\mxc-lang\obj\Debug\net8.0\ref\mxc-lang.dll
